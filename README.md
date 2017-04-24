@@ -5,5 +5,5 @@ Test repository for me to try out the [LÖVE](https://love2d.org/) 2D game frame
 ### Linux
 In the folder containing `main.lua` run:
 ```
-love
+love .
 ```
